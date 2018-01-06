@@ -1,7 +1,6 @@
 {
     "name": "sinevia/php-library-kvs",
     "description": "PHP Library Key Value Store",
-    "version": "0.0.1",
     "type": "library",
     "keywords": ["key", "value", "store", "library", "php", "sinevia"],    
     "homepage": "http://github.com/sinevia/php-library-utils",
